@@ -1,34 +1,44 @@
 import Vue from 'vue'
-import App from './App'
+import App from './App.vue'
 import router from './router'
-import echarts from 'echarts'
-import iconfont from './assets/iconfont/iconfont.css'
-import './utils/rem'
 import store from './store'
+import 'amfe-flexible/index.js'
+import Vant from 'vant'
+import 'vant/lib/index.css'
+import '../src/assets/css/vantui.css'
+import '../src/assets/css/index.less'
 import ElementUI from 'element-ui'
-import animated from 'animate.css'
 import 'element-ui/lib/theme-chalk/index.css'
-import "./assets/css/index.css"
-import vuescroll from 'vuescroll'
-import $ from 'jquery'
-import 'video.js/dist/video-js.css'
-
-// 2021年12月24日新增v-charts
-import VCharts from 'v-charts';
-Vue.use(VCharts);
-
-Vue.config.productionTip = false
-Vue.prototype.$echarts = echarts // 全局引入echarts，调用时通过 this.$echarts 调用
+import './assets/css/element.css'
+import VCharts from 'v-charts'
+import echarts from 'echarts'
+import './utils/chart.resize.js'
+import Vconsole from 'vconsole'
+import { Base64 } from 'js-base64'
+import NavigatorApi from '@/utils/navigator';
+const android = window.android
+export { android }
+import vueEsign from 'vue-esign'
+Vue.use(vueEsign)
+import vueToPdf from '@/utils/vueToPdf.js'
+Vue.use(vueToPdf)
+// let vConsole = new Vconsole()
+// Vue.use(vConsole)
+Vue.use(VCharts)
 Vue.use(ElementUI)
-Vue.use(animated)
-Vue.use(vuescroll)
-/* eslint-disable no-new */
+Vue.use(Vant)
+Vue.prototype.$echarts = echarts
+Vue.config.productionTip = false
+Vue.prototype.$Base64 = Base64;
+
+
+
+window.navigatorApi = new NavigatorApi()
+window.navigatorApi.getCurrentPosition()
+window.navigatorApi.watchPosition()
 
 new Vue({
-  el: '#app',
-  router,
-  store,
-  iconfont,
-  components: { App },
-  template: '<App/>'
-})
+    router,
+    store,
+    render: (h) => h(App),
+}).$mount('#app')

@@ -1,0 +1,26 @@
+/* 修改登录表单中用户名和密码框中icon的图标 */
+.el-icon-mobile::before,
+.el-icon-key::before,
+.el-icon-postcard::before {
+  font-size: 24px;
+  color: green;
+}
+
+/* 修改 tab item 的高度 */
+.el-tabs .el-tabs__header .el-tabs__nav .el-tabs__item {
+  width: 101px;
+  height: 52px;
+  text-align: center;
+  line-height: 52px;
+  font-size: 17px;
+  font-family: PingFangSC-Medium, PingFang SC;
+  font-weight: 500;
+  color: #000000;
+  line-height: 52px;
+  letter-spacing: 2px;
+}
+
+/* 修改 el-tab 组件中header的默认下marign 10为0 此时是纵向所以是margin-right */
+.el-tabs--left .el-tabs__header.is-left{
+    margin-right: 0px;
+}

@@ -1,0 +1,62 @@
+.padbox {
+  background: #fff;
+  margin-top: 15px;
+}
+.van-field {
+  background: #fff;
+  .van-field__label {
+    background: #fff;
+  }
+  .van-field__control {
+    background: #fff;
+    color: #000;
+  }
+}
+.van-cell {
+  padding: 0;
+  overflow: inherit;
+}
+
+.username {
+  .van-field {
+    .van-field__label {
+      span {
+        font-size: 18px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        font-weight: 500;
+        color: #000000;
+        line-height: 25px;
+      }
+    }
+  }
+}
+
+.idNumber {
+  .username {
+    .van-field__label {
+      span {
+        font-size: 18px;
+        font-family: PingFangSC-Medium, PingFang SC;
+        font-weight: 500;
+        color: #000000;
+        line-height: 25px;
+      }
+    }
+  }
+}
+.borderbottom{
+  border-bottom: 1px solid #eee;
+}
+
+// 解决 van-swipe 默认有个左padding
+.van-swipe{
+  padding: 0px !important;
+}
+
+.van-swipe-cell__right {
+  display: flex;
+  align-items: center;
+  .van-button {
+    height: 100%;
+  }
+}
