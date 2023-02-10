@@ -1,0 +1,532 @@
+[
+  {
+    "index": "1",
+    "companyName": "中民聚康（天津）养老产业发展有限公司",
+    "enterprise": "天津市河西区聚康餐饮管理服务中心",
+    "classess": "助餐服务类",
+    "project": "早餐服务、午餐服务、晚餐服务",
+    "enterpriseName": "展恒波",
+    "enterprisePhone": "18526299777",
+    "remark": ""
+  },
+  {
+    "index": "2",
+    "companyName": "中民聚康（天津）养老产业发展有限公司",
+    "enterprise": "天津普天大健康科技有限公司",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）",
+    "enterpriseName": "姜鸿坤",
+    "enterprisePhone": "13803002284",
+    "remark": ""
+  },
+  {
+    "index": "3",
+    "companyName": "中民聚康（天津）养老产业发展有限公司",
+    "enterprise": "中民聚康（天津）养老产业发展有限公司",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "展恒波",
+    "enterprisePhone": "18526299777",
+    "remark": ""
+  },
+  {
+    "index": "4",
+    "companyName": "中民聚康（天津）养老产业发展有限公司",
+    "enterprise": "中民聚康（天津）养老产业发展有限公司",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "展恒波",
+    "enterprisePhone": "18526299777",
+    "remark": ""
+  },
+  {
+    "index": "5",
+    "companyName": "中民聚康（天津）养老产业发展有限公司",
+    "enterprise": "中民聚康（天津）养老产业发展有限公司",
+    "classess": "托养床位类",
+    "project": "短期托养服务、日间托养服务",
+    "enterpriseName": "展恒波",
+    "enterprisePhone": "18526299777",
+    "remark": ""
+  },
+  {
+    "index": "6",
+    "companyName": "中民聚康（天津）养老产业发展有限公司",
+    "enterprise": "中民聚康（天津）养老产业发展有限公司",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "展恒波",
+    "enterprisePhone": "18526299777",
+    "remark": ""
+  },
+  {
+    "index": "7",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区龙福宫马场街餐饮服务中心",
+    "classess": "助餐服务类",
+    "project": "早餐服务、午餐服务、晚餐服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "8",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区龙福宫餐饮服务中心",
+    "classess": "助餐服务类",
+    "project": "早餐服务、午餐服务、晚餐服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "9",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区龙福宫连荣里餐饮服务中心",
+    "classess": "助餐服务类",
+    "project": "早餐服务、午餐服务、晚餐服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "10",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津挚美家政服务有限公司",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）",
+    "enterpriseName": "赵志帅",
+    "enterprisePhone": "15222871108",
+    "remark": ""
+  },
+  {
+    "index": "11",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区广东路龙福宫老人院",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "12",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区广东路龙福宫老人院",
+    "classess": "助医服务类",
+    "project": "专业护理服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "13",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区广东路龙福宫老人院",
+    "classess": "托养床位类",
+    "project": "短期托养服务、日间托养服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "14",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区广东路龙福宫老人院",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "15",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区紫韵广告设计制作中心",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "史俊玲",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "16",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市津南区大脚板足浴城",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "杨坤",
+    "enterprisePhone": "13388007166",
+    "remark": ""
+  },
+  {
+    "index": "17",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津乐风信息科技有限责任公司",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "吴健",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "18",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "北京建薇医疗科技有限公司",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "胡伟",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "19",
+    "companyName": "天津市河西区广东路龙福宫老人院",
+    "enterprise": "天津市河西区乐家老店艾灸馆",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "王桂兰",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "20",
+    "companyName": "天津华夏恒达科技有限公司",
+    "enterprise": "天津国丰餐饮集团有线公司",
+    "classess": "助餐服务类",
+    "project": "午餐服务、晚餐服务",
+    "enterpriseName": "郭胜利",
+    "enterprisePhone": "13601082533",
+    "remark": ""
+  },
+  {
+    "index": "21",
+    "companyName": "天津华夏恒达科技有限公司",
+    "enterprise": "天津华夏恒达科技有限公司",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "张岩",
+    "enterprisePhone": "13312068110",
+    "remark": ""
+  },
+  {
+    "index": "22",
+    "companyName": "天津华夏恒达科技有限公司",
+    "enterprise": "天津华夏恒达科技有限公司",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "张岩",
+    "enterprisePhone": "13312068110",
+    "remark": ""
+  },
+  {
+    "index": "23",
+    "companyName": "天津华夏恒达科技有限公司",
+    "enterprise": "天津和平尚安门诊部",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "24",
+    "companyName": "天津市海洋石油物业管理有限公司河西区分公司",
+    "enterprise": "天津市海洋石油物业管理有限公司河西区分公司",
+    "classess": "助餐服务类",
+    "project": "早餐服务、午餐服务、晚餐服务",
+    "enterpriseName": "张坤",
+    "enterprisePhone": "13512851882",
+    "remark": ""
+  },
+  {
+    "index": "25",
+    "companyName": "天津市海洋石油物业管理有限公司河西区分公司",
+    "enterprise": "天津市海洋石油物业管理有限公司河西区分公司",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "张坤",
+    "enterprisePhone": "13512851882",
+    "remark": ""
+  },
+  {
+    "index": "26",
+    "companyName": "天津市海洋石油物业管理有限公司河西区分公司",
+    "enterprise": "四海嘉实（天津）物业管理有限公司",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "27",
+    "companyName": "天津市海洋石油物业管理有限公司河西区分公司",
+    "enterprise": "慧慈科技服务(天津)有限公司",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "28",
+    "companyName": "天津市海洋石油物业管理有限公司河西区分公司",
+    "enterprise": "慧慈科技服务(天津)有限公司",
+    "classess": "助医服务类",
+    "project": "专业护理服务",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "29",
+    "companyName": "天津市海洋石油物业管理有限公司河西区分公司",
+    "enterprise": "天津市河西区博华门诊部",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "30",
+    "companyName": "天津市河西区逸麟老人院",
+    "enterprise": "天津市河西区逸麟老人院",
+    "classess": "助餐服务类",
+    "project": "午餐服务、晚餐服务",
+    "enterpriseName": "樊若冰",
+    "enterprisePhone": "13323337648",
+    "remark": ""
+  },
+  {
+    "index": "31",
+    "companyName": "天津市河西区逸麟老人院",
+    "enterprise": "天津市河西区逸麟老人院",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "樊若冰",
+    "enterprisePhone": "13323337648",
+    "remark": ""
+  },
+  {
+    "index": "32",
+    "companyName": "天津市河西区逸麟老人院",
+    "enterprise": "天津市河西区逸麟老人院",
+    "classess": "助医服务类",
+    "project": "专业护理服务、理疗康复服务",
+    "enterpriseName": "樊若冰",
+    "enterprisePhone": "13323337648",
+    "remark": ""
+  },
+  {
+    "index": "33",
+    "companyName": "天津市河西区逸麟老人院",
+    "enterprise": "天津市河西区逸麟老人院",
+    "classess": "托养床位类",
+    "project": "短期托养服务、日间托养服务",
+    "enterpriseName": "樊若冰",
+    "enterprisePhone": "13323337648",
+    "remark": ""
+  },
+  {
+    "index": "34",
+    "companyName": "天津市河西区逸麟老人院",
+    "enterprise": "天津市河西区逸麟老人院",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "樊若冰",
+    "enterprisePhone": "13323337648",
+    "remark": ""
+  },
+  {
+    "index": "35",
+    "companyName": "天津市河西区逸麟老人院",
+    "enterprise": "天津市河西区逸享为老服务中心",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "36",
+    "companyName": "天津市河西区聚友福餐饮服务有限公司",
+    "enterprise": "天津市河西区聚友福餐饮服务有限公司",
+    "classess": "助餐服务类",
+    "project": "午餐服务、晚餐服务",
+    "enterpriseName": "李军",
+    "enterprisePhone": "13920960966",
+    "remark": ""
+  },
+  {
+    "index": "37",
+    "companyName": "天津市河西区福寿康居家养老服务中心",
+    "enterprise": "天津市河西区福寿康居家养老服务中心",
+    "classess": "助餐服务类",
+    "project": "午餐服务、晚餐服务",
+    "enterpriseName": "王磊",
+    "enterprisePhone": "13642057331",
+    "remark": ""
+  },
+  {
+    "index": "38",
+    "companyName": "天津市河西区福寿康居家养老服务中心",
+    "enterprise": "天津市河西区福寿康居家养老服务中心",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）、基本生活护理服务",
+    "enterpriseName": "王磊",
+    "enterprisePhone": "13642057331",
+    "remark": ""
+  },
+  {
+    "index": "39",
+    "companyName": "天津市河西区福寿康居家养老服务中心",
+    "enterprise": "天津市河西区福寿康居家养老服务中心",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "王磊",
+    "enterprisePhone": "13642057331",
+    "remark": ""
+  },
+  {
+    "index": "40",
+    "companyName": "天津市河西区美塘佳苑养老院",
+    "enterprise": "天津市河西区美塘餐厅",
+    "classess": "助餐服务类",
+    "project": "午餐服务、晚餐服务",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "41",
+    "companyName": "天津市河西区美塘佳苑养老院",
+    "enterprise": "天津洁夫人家政服务有限公司",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）",
+    "enterpriseName": "张鹏",
+    "enterprisePhone": "18526105584",
+    "remark": ""
+  },
+  {
+    "index": "42",
+    "companyName": "天津市河西区美塘佳苑养老院",
+    "enterprise": "天津河西诺康医院有限责任公司",
+    "classess": "助医服务类",
+    "project": "理疗康复服务",
+    "enterpriseName": "吴宪伟",
+    "enterprisePhone": "88303099",
+    "remark": ""
+  },
+  {
+    "index": "43",
+    "companyName": "天津市河西区美塘佳苑养老院",
+    "enterprise": "天津市河西区美塘佳苑养老院",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "张莹",
+    "enterprisePhone": "15522777717",
+    "remark": ""
+  },
+  {
+    "index": "44",
+    "companyName": "天津市河西区美塘佳苑养老院",
+    "enterprise": "天津市河西区美塘佳苑养老院",
+    "classess": "托养床位类",
+    "project": "短期托养服务、日间托养服务",
+    "enterpriseName": "张莹",
+    "enterprisePhone": "15522777717",
+    "remark": ""
+  },
+  {
+    "index": "45",
+    "companyName": "天津市河西区美塘佳苑养老院",
+    "enterprise": "天津市河西区美塘佳苑养老院",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "张莹",
+    "enterprisePhone": "15522777717",
+    "remark": ""
+  },
+  {
+    "index": "46",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津市河西区云江养老院",
+    "classess": "助餐服务类",
+    "project": "午餐服务、晚餐服务",
+    "enterpriseName": "刘志方",
+    "enterprisePhone": "15822192231",
+    "remark": ""
+  },
+  {
+    "index": "47",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津市河西区云江养老院",
+    "classess": "助医服务类",
+    "project": "专业护理服务、理疗康复服务",
+    "enterpriseName": "刘志方",
+    "enterprisePhone": "15822192231",
+    "remark": ""
+  },
+  {
+    "index": "48",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津市河西区云江养老院",
+    "classess": "托养床位类",
+    "project": "短期托养服务、日间托养服务",
+    "enterpriseName": "刘志方",
+    "enterprisePhone": "15822192231",
+    "remark": ""
+  },
+  {
+    "index": "49",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津市河西区云江养老院",
+    "classess": "其他服务类",
+    "project": "助急服务、其他服务",
+    "enterpriseName": "刘志方",
+    "enterprisePhone": "15822192231",
+    "remark": ""
+  },
+  {
+    "index": "50",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津市河西区云江养老院",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "刘志方",
+    "enterprisePhone": "15822192231",
+    "remark": ""
+  },
+  {
+    "index": "51",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津育嘉物业管理有限公司",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）",
+    "enterpriseName": "",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "52",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津市河西区技通电器维修服务中心",
+    "classess": "生活照料类",
+    "project": "家政服务（助洁服务）",
+    "enterpriseName": "杜金海",
+    "enterprisePhone": "",
+    "remark": ""
+  },
+  {
+    "index": "53",
+    "companyName": "天津育嘉物业管理有限公司",
+    "enterprise": "天津市河西区美尔康口腔门诊有限公司",
+    "classess": "生活照料类",
+    "project": "基本生活护理服务",
+    "enterpriseName": "王毅",
+    "enterprisePhone": "",
+    "remark": ""
+  }
+]

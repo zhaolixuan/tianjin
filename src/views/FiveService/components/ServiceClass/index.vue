@@ -1,0 +1,58 @@
+<template>
+  <div class="older-content">
+    <norm-layout text="服务类别占比" :flag="false"></norm-layout>
+    <service-chart :ServiceData="ServiceData"></service-chart>
+  </div>
+</template>
+
+<script>
+import NormLayout from '@/views/OlderDistribution/components/NormLayout'
+import ServiceChart from '@/views/BuffetPage/components/ServiceChart/index'
+export default {
+  name: 'ServiceClass',
+  props: {
+    serviceSortMap: {
+      type: Object,
+      default: () => {}
+    }
+  },
+  computed: {
+    ServiceData () {
+      let { sortTotala, sortTotalb, sortTotalc, sortTotald, sortTotale } = this.serviceSortMap || {}
+      let data = [
+        {name: '其他服务类', value: sortTotale},
+        {name: '托养床位类', value: sortTotald},
+        {name: '助医服务类', value: sortTotalc},
+        {name: '生活照料类', value: sortTotalb},
+        {name: '助餐服务类', value: sortTotala}
+      ]
+      return {
+        data,
+        radius: ['47%', '55%'],
+        center: ['50%', '50%'],
+        title: '服务类别',
+        itemStyle: {
+          borderWidth: 5,
+          borderColor: '#031831'
+        },
+        colors: [
+          {start: '#1887FE', end: '#18E7FE'},
+          {start: '#62FEEF', end: '#45EB9D'},
+          {start: '#CC4E32', end: '#FF876C'}
+        ],
+        formatter: '{b|{b}：}{c|{c}客次}\n{d|{d}%}'
+      }
+    }
+  },
+  components: {
+    NormLayout,
+    ServiceChart
+  }
+}
+</script>
+
+<style lang="less" scoped>
+.older-content {
+  height: 3.6rem;
+}
+</style>

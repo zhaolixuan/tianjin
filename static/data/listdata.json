@@ -1,0 +1,533 @@
+[
+  {
+    "projectName": "福清新大泽海洋微藻高值化产品开发及产业链建设项目",
+    "chargePerson": "朱徽创建项目",
+    "id": "2160",
+    "code": "20190507073531",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "38,39,40,41,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "-676",
+        "stageRate": "50",
+        "stageRates": "47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2017-05-08",
+        "nextDay": "481",
+        "stageRate": "",
+        "stageRates": ""
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2018-09-01",
+        "nextDay": "549",
+        "stageRate": "0",
+        "stageRates": ""
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2020-03-03",
+        "nextDay": "-354",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2019-03-15",
+        "nextDay": null,
+        "stageRate": "NaN",
+        "stageRates": ""
+      }
+    ]
+  },
+  {
+    "projectName": "福清闽台电子商务与现代物流园项目",
+    "chargePerson": "朱徽测试项目管理",
+    "id": "2168",
+    "code": "20190605082102",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "50",
+        "stageRates": "38,39,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "46,47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2019-03-15",
+        "nextDay": "100",
+        "stageRate": "100",
+        "stageRates": "42,43,44,45,"
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2019-06-23",
+        "nextDay": "200",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2020-01-09",
+        "nextDay": "20",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2020-01-29",
+        "nextDay": null,
+        "stageRate": null,
+        "stageRates": null
+      }
+    ]
+  },
+  {
+    "projectName": "园区冷链运输项目建设",
+    "chargePerson": "福清项目管理001",
+    "id": "2169",
+    "code": "20190605082614",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "38,39,40,41,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "46,47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "42,43,44,45,"
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2019-03-15",
+        "nextDay": "200",
+        "stageRate": "100",
+        "stageRates": "48,49,50,"
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2019-10-01",
+        "nextDay": "20",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2019-10-21",
+        "nextDay": null,
+        "stageRate": null,
+        "stageRates": null
+      }
+    ]
+  },
+  {
+    "projectName": "福建丰大年加工冷冻水产品10000吨",
+    "chargePerson": "王鑫项目与创建",
+    "id": "2158",
+    "code": "20190424074443",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-04-27",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-04-27",
+        "nextDay": "-43",
+        "stageRate": "100",
+        "stageRates": "38,39,40,41,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "43",
+        "stageRate": "50",
+        "stageRates": "47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2019-04-27",
+        "nextDay": "154",
+        "stageRate": "0",
+        "stageRates": ""
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2019-09-28",
+        "nextDay": "-63",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2019-07-27",
+        "nextDay": "283",
+        "stageRate": "NaN",
+        "stageRates": ""
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2020-05-05",
+        "nextDay": null,
+        "stageRate": null,
+        "stageRates": null
+      }
+    ]
+  },
+  {
+    "projectName": "福清明旺食品年产3万吨水产速冻产品加工项目",
+    "chargePerson": "王鑫项目与创建",
+    "id": "2161",
+    "code": "20190507073531",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "38,39,40,41,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "-676",
+        "stageRate": "50",
+        "stageRates": "47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2017-05-08",
+        "nextDay": "481",
+        "stageRate": "",
+        "stageRates": ""
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2018-09-01",
+        "nextDay": "549",
+        "stageRate": "0",
+        "stageRates": ""
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2020-03-03",
+        "nextDay": "-354",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2019-03-15",
+        "nextDay": null,
+        "stageRate": "NaN",
+        "stageRates": ""
+      }
+    ]
+  },
+  {
+    "projectName": "园区无人机运输项目",
+    "chargePerson": "企业筛选",
+    "id": "2170",
+    "code": "20190605094823",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-03-15",
+        "nextDay": "30",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-04-14",
+        "nextDay": "20",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-05-04",
+        "nextDay": "54",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2019-06-27",
+        "nextDay": "100",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2019-10-05",
+        "nextDay": "200",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2020-04-22",
+        "nextDay": "20",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2020-05-12",
+        "nextDay": null,
+        "stageRate": null,
+        "stageRates": null
+      }
+    ]
+  },
+  {
+    "projectName": "园区机器人自动捡货项目",
+    "chargePerson": "企业筛选",
+    "id": "2171",
+    "code": "20190606025353",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "38,39,40,41,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "46,47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "42,43,44,45,"
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2019-03-15",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "48,49,50,"
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2019-03-15",
+        "nextDay": "20",
+        "stageRate": "NaN",
+        "stageRates": ""
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2019-04-04",
+        "nextDay": null,
+        "stageRate": null,
+        "stageRates": null
+      }
+    ]
+  },
+  {
+    "projectName": "福清元洪国际食品园项目",
+    "chargePerson": "534",
+    "id": "2156",
+    "code": "20190424074443",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-04-27",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-04-27",
+        "nextDay": "-43",
+        "stageRate": "100",
+        "stageRates": "38,39,40,41,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "43",
+        "stageRate": "50",
+        "stageRates": "47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2019-04-27",
+        "nextDay": "154",
+        "stageRate": "0",
+        "stageRates": ""
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2019-09-28",
+        "nextDay": "-63",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2019-07-27",
+        "nextDay": "283",
+        "stageRate": "NaN",
+        "stageRates": ""
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2020-05-05",
+        "nextDay": null,
+        "stageRate": null,
+        "stageRates": null
+      }
+    ]
+  },
+  {
+    "projectName": "胜田（福清）年产速冻食品5万吨、水产加工品2万吨项目",
+    "chargePerson": "534",
+    "id": "2159",
+    "code": "20190424074443",
+    "pointx": "117.54115",
+    "pointy": "36.69968",
+    "data": [
+      {
+        "stageName": "企业筛选",
+        "stageTime": "2019-04-27",
+        "nextDay": "0",
+        "stageRate": "100",
+        "stageRates": "35,36,37,"
+      },
+      {
+        "stageName": "洽谈考察",
+        "stageTime": "2019-04-27",
+        "nextDay": "-43",
+        "stageRate": "100",
+        "stageRates": "38,39,40,41,"
+      },
+      {
+        "stageName": "签约",
+        "stageTime": "2019-03-15",
+        "nextDay": "43",
+        "stageRate": "50",
+        "stageRates": "47,"
+      },
+      {
+        "stageName": "落户",
+        "stageTime": "2019-04-27",
+        "nextDay": "154",
+        "stageRate": "0",
+        "stageRates": ""
+      },
+      {
+        "stageName": "开工",
+        "stageTime": "2019-09-28",
+        "nextDay": "-63",
+        "stageRate": null,
+        "stageRates": null
+      },
+      {
+        "stageName": "入住",
+        "stageTime": "2019-07-27",
+        "nextDay": "283",
+        "stageRate": "NaN",
+        "stageRates": ""
+      },
+      {
+        "stageName": "运营",
+        "stageTime": "2020-05-05",
+        "nextDay": null,
+        "stageRate": null,
+        "stageRates": null
+      }
+    ]
+  }
+]

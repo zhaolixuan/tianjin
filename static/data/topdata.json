@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "name": "洽谈考察企业数量",
+      "number": "4",
+      "unit": "家",
+      "ratio": "0.0"
+    },
+    {
+      "name": "项目储备数量",
+      "number": "2",
+      "unit": "家",
+      "ratio": "0.0"
+    },
+    {
+      "name": "引进项目",
+      "number": "1",
+      "unit": "家",
+      "ratio": "0.0"
+    },
+    {
+      "name": "开工数",
+      "number": "2",
+      "unit": "家",
+      "ratio": "0.0"
+    },
+    {
+      "name": "投产数",
+      "number": "2",
+      "unit": "家",
+      "ratio": "0.0"
+    },
+    {
+      "name": "投产金额",
+      "number": "9146.699999999999",
+      "unit": "亿",
+      "ratio": "0.0"
+    }
+  ],
+  "datawarn": [
+    {
+      "name": "项目按时推进率",
+      "number": "0.0000",
+      "unit": "%",
+      "ratio": null
+    },
+    {
+      "name": "项目预警解决时间",
+      "number": "121.26666666666667",
+      "unit": "天",
+      "ratio": null
+    },
+    {
+      "name": "预警消除比例",
+      "number": "0.6000",
+      "unit": "%",
+      "ratio": null
+    }
+  ]
+}

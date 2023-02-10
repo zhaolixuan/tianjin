@@ -1,0 +1,83 @@
+{
+  "geoCoordMap": {
+    "办公楼B": [
+      117.54115, 36.69968
+    ],
+    "宿舍A": [
+      117.54115, 36.69968
+    ],
+    "宿舍C": [
+      117.54115, 36.69968
+    ],
+    "宿舍D": [
+      117.54115, 36.69968
+    ],
+    "办公楼A": [
+      117.54115, 36.69968
+    ]
+  },
+  "size": 10,
+  "pointData": [
+    {
+      "id": "2156",
+      "name": "宿舍A",
+      "project": "福清元洪国际食品园项目",
+      "stageStr": "入住",
+      "money": "32",
+      "startTime": "2019-04-27",
+      "endTime": "2019-04-27",
+      "person": "534",
+      "areaStatus": null,
+      "imports": true
+    },
+    {
+      "id": "2158",
+      "name": "宿舍C",
+      "project": "福建丰大年加工冷冻水产品10000吨",
+      "stageStr": "签约",
+      "money": "1",
+      "startTime": "2019-04-27",
+      "endTime": "2019-04-27",
+      "person": "王鑫项目与创建",
+      "areaStatus": null,
+      "imports": true
+    },
+    {
+      "id": "2159",
+      "name": "宿舍D",
+      "project": "胜田（福清）年产速冻食品5万吨、水产加工品2万吨项目",
+      "stageStr": "落户",
+      "money": "32",
+      "startTime": "2019-04-27",
+      "endTime": "2019-04-27",
+      "person": "534",
+      "areaStatus": null,
+      "imports": true
+    },
+    {
+      "id": "2160",
+      "name": "办公楼A",
+      "project": "福清新大泽海洋微藻高值化产品开发及产业链建设项目",
+      "stageStr": "开工",
+      "money": "0.1",
+      "startTime": "2019-03-15",
+      "endTime": "2019-03-15",
+      "person": "朱徽创建项目",
+      "areaStatus": null,
+      "imports": true
+    },
+    {
+      "id": "2161",
+      "name": "办公楼B",
+      "project": "福清明旺食品年产3万吨水产速冻产品加工项目",
+      "stageStr": "运营",
+      "money": "1",
+      "startTime": "2019-03-15",
+      "endTime": "2019-03-15",
+      "person": "王鑫项目与创建",
+      "areaStatus": null,
+      "imports": true
+    }
+  ],
+  "projectNames": []
+}

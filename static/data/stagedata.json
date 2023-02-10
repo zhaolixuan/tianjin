@@ -1,0 +1,16 @@
+{
+  "subStageData": [
+    {
+      "name": "企业参会",
+      "finish": false
+    },
+    {
+      "name": "初步接触",
+      "finish": false
+    },
+    {
+      "name": "潜在企业",
+      "finish": false
+    }
+  ]
+}
